@@ -1,6 +1,6 @@
 # Identicon
 
-**TODO: Add description**
+**This project creates an Identicon that is unique to an input string**
 
 ## Installation
 
